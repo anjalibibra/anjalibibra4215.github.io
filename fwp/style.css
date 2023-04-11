@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+body{
+    background-color: #dfbba5;
+}
+nav{
+    background-color: #967059;
+    font-family: 'Delicious Handrawn', cursive;
+    color: white;
+    
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    height: 100px;
+}
+nav ul li{
+    padding: 12 px;
+    font-size: xx-large;
+    position: relative;
+    padding: 45px;
+}
+.brand{
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: x-large;
+    color: #e0e2e4;
+    
+}
